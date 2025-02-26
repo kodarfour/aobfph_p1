@@ -8,6 +8,7 @@ __pycache__/
 
 likes.txt
 likes.csv
+
 # Distribution / packaging
 .Python
 build/
